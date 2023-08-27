@@ -47,12 +47,12 @@
   
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=adarshu21&show_icons=true&locale=en" alt="adarshu21" />
 </p>
 
-<h3 align="center">Connect with Me:</h3>
-<p align="center">
+<h3 align="left">Connect with Me:</h3>
+<p align="left">
   <a href="https://www.linkedin.com/in/adarsh-u-35749b221/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
