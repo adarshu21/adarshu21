@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Adarsh U</h1>
 <h3 align="center">Passionate Developer | RV College, Bangalore</h3>
 <hr>
-<div>
+<div> 
   <img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:828/0*7Q3yvSIv_t0ioJ-Z.gif">
   <p align="left">
     Welcome to my GitHub profile! I'm Adarsh U, a dedicated developer from Bangalore, currently studying at RV College. I'm enthusiastic about coding, problem-solving, and exploring new technologies. Feel free to explore my repositories and connect with me.
