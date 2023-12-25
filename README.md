@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FULL STACK DEVELOPER,ML ENTHUSIAST,BLOCKCHAIN EXPLORER developer from RV COLLEGE OF ENGINEERING</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshu21&label=Profile%20views&color=0e75b6&style=flat" alt="adarshu21" /> </p>
- 
+  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshu21" alt="adarshu21" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adarshu0510" target="blank"><img src="https://img.shields.io/twitter/follow/adarshu0510?logo=twitter&style=for-the-badge" alt="adarshu0510" /></a> </p>
